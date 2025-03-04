@@ -9,3 +9,13 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+form {
+    width: 90%;
+    max-width: 31.25em;
+    background: white;
+    padding: 1.25em;
+    border-radius: 0.5em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
